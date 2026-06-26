@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background:#f2f2f2;
+    text-align:center;
+}
+
+form{
+    width:400px;
+    margin:auto;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+}
+
+input{
+    width:90%;
+    padding:10px;
+    margin:8px;
+}
+
+input[type=submit]{
+    background:green;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
